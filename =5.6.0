@@ -1,0 +1,8 @@
+Collecting traitlets
+  Using cached traitlets-5.14.3-py3-none-any.whl (85 kB)
+Installing collected packages: traitlets
+  Attempting uninstall: traitlets
+    Found existing installation: traitlets 5.14.3
+    Uninstalling traitlets-5.14.3:
+      Successfully uninstalled traitlets-5.14.3
+Successfully installed traitlets-5.14.3
